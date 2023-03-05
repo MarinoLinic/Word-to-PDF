@@ -10,6 +10,6 @@ Open the terminal / CMD / Powershell in the original directory address. (The one
 
 `python main.py` (or just double click the script.)
 
-The files will be found in the "PDF" directory.
+The files will be found in the "PDF" directory (which will be created if not there).
 
 (Btw: you can export dependencies in the environment by using `pip freeze > requirements.txt`)
